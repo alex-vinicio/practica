@@ -52,7 +52,6 @@ body {
 }
 
 .footer {
-    position: relative;
     text-align: center;
 }
 
@@ -86,7 +85,6 @@ body {
       position: relative;
     }
     .menu-lateral a {float: left;}
-    div.content {margin-left: 0;}
     .content-footer{
         margin-top: 75%;}
   }
